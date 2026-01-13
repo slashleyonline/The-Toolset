@@ -68,4 +68,5 @@ function diceRoller(times, sides) {
 
 function sumArrayElements(array) {
     return array.reduce((total, currentNumber) => total + currentNumber)
+    //bit confused about how this works. Ask in section or office hours!
 }
